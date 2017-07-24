@@ -1,3 +1,3 @@
 # AnimeTimer
-Its a countdown Timer.
 ![animeTimer](animeTester.PNG)
+Its a countdown Timer.
